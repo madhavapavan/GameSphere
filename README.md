@@ -78,7 +78,7 @@ players-website/
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/players-website.git
+git clone https://https://github.com/madhavapavan/GameSphere.git
 cd players-website
 ```
 
@@ -172,31 +172,6 @@ npm install
 
 ---
 
-## **Screenshots**
-
-### **Landing Page**
-![Landing Page](screenshots/landing.png)
-
-### **Sign Up Page**
-![Sign Up Page](screenshots/signup.png)
-
-### **Login Page**
-![Login Page](screenshots/login.png)
-
-### **Player Dashboard**
-![Player Dashboard](screenshots/player-dashboard.png)
-
-### **Admin Dashboard**
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### **Create Game Page**
-![Create Game Page](screenshots/create-game.png)
-
-### **Edit Game Page**
-![Edit Game Page](screenshots/edit-game.png)
-
----
-
 ## **Contributing**
 
 Contributions are welcome! If you'd like to contribute:
@@ -224,8 +199,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Contact**
 
 For any questions or feedback, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: madhavavukkum@gmail.com
+- **GitHub**: [madhavapavan](https://github.com/madhavapavan)
 
 ---
 
