@@ -78,7 +78,7 @@ players-website/
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://https://github.com/madhavapavan/GameSphere.git
+git clone https://github.com/madhavapavan/GameSphere.git
 cd players-website
 ```
 
